@@ -161,9 +161,7 @@
 
 
 
-                        <script async
-                            src="../../pagead2.googlesyndication.com/pagead/js/f61b1.txt?client=ca-pub-3556370975997652"
-                            crossorigin="anonymous"></script>
+
 
 
 
