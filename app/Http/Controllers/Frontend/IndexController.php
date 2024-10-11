@@ -203,6 +203,9 @@ class IndexController extends Controller
             $PremiumPrograms = $this->generalService->Filter_By_Category('Premium');
             $NormalPrograms = $this->generalService->Filter_By_Category('Normal');
             $TrialPrograms = $this->generalService->Filter_By_Category('Trial');
+
+
+
         } elseif ($category === 'Super VIP') {
 
             $superVipPrograms = $this->generalService->Filter_By_Category('Super Vip');

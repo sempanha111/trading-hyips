@@ -232,7 +232,7 @@ class GeneralService
     public function Filter_By_Category($category)
     {
 
-        $timeLimit = now()->subDays(3);
+        $timeLimit = now()->subDays(15);
 
         $programs = collect();
 
